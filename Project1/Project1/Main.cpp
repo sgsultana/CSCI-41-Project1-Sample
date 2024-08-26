@@ -5,6 +5,6 @@
 
 int main()
 {
-	std::cout << "Welecome to my project\n";
+	std::cout << "Welecome to my project 1\n";
 	return 0;
 }
